@@ -1,6 +1,6 @@
 {
   "name": "any-to-buffer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert values to Buffer",
   "main": "index.js",
   "scripts": {
