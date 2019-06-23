@@ -24,6 +24,12 @@ console.log(toBuffer('abc')) // <Buffer 61 62 63>
 console.log(toBuffer(new BN(256))) // <Buffer 01 00>
 ```
 
+## Test
+
+```bash
+npm test
+```
+
 ## License
 
 [MIT](LICENSE)
